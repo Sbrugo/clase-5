@@ -1,7 +1,10 @@
 body {
  
-background-color: blue;
+background-color: #004236;
 text-align: left;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
 
 }
 
